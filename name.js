@@ -1,4 +1,5 @@
-let myName = 'Ridwan Ishola Sulaiman'
+// on the console//
+let myName = 'Sulaiman, Ridwan Ishola'
 let height = 1.5
 let country = 'Nigeria'
 console.log(myName);
